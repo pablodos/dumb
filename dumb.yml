@@ -263,19 +263,3 @@ Rails/FindBy:
     - app/**/*.rb
 
 # RSpec
-
-# Start context description without 'when', 'with', or 'without'.
-RSpec/ContextWording:
-  Enabled: false
-
-RSpec/AlignLeftLetBrace:
-  Enabled: true
-
-RSpec/AlignRightLetBrace:
-  Enabled: false
-
-RSpec/MultipleMemoizedHelpers:
-  Enabled: false
-
-RSpec/NestedGroups:
-  Max: 5
