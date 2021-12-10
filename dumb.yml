@@ -247,7 +247,7 @@ Naming/BinaryOperatorParameterName:
   Enabled: false
 
 Lint/ConstantResolution:
-  Enabled: false
+  Enabled: false    
 
 
 # Rails
