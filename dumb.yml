@@ -247,7 +247,7 @@ Naming/BinaryOperatorParameterName:
   Enabled: false
 
 Lint/ConstantResolution:
-  Enabled: false    
+  Enabled: false
 
 
 # Rails
@@ -279,7 +279,3 @@ RSpec/MultipleMemoizedHelpers:
 
 RSpec/NestedGroups:
   Max: 5
-
-# Allows us to mark specs as "skip"
-RSpec/Pending:
-  Enabled: false
